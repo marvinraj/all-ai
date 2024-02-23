@@ -1,0 +1,6 @@
+this folder includes everything related to ai.
+
+plan -
+1. learn numpy
+2. learn panda
+3. learn matplotlib
