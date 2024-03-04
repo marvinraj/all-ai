@@ -25,5 +25,3 @@ print(arr_1d.dtype)
 animal_arr = np.array(["dog", "cat", "tiger", "lion"])
 print(animal_arr)
 print(animal_arr.dtype)
-
-# copy vs view
