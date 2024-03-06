@@ -1,6 +1,8 @@
 this folder includes everything related to ai.
 
 plan -
-1. learn numpy
-2. learn panda
-3. learn matplotlib
+1. learn numpy, then do projects
+    projects -
+        - see in chatgpt
+2. learn panda, then do projects
+3. learn matplotlib, then do projects
