@@ -4,5 +4,5 @@ plan -
 1. learn numpy, then do projects
     projects -
         - see in chatgpt
-2. learn panda, then do projects
+2. learn pandas, then do projects
 3. learn matplotlib, then do projects
