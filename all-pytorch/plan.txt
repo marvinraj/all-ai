@@ -1,0 +1,8 @@
+planzzz
+
+1. complete the Deep learning with pytorch tutorial here
+- https://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html
+
+2. complete a simple project on youtube, follow along -- https://www.youtube.com/watch?v=mozBidd58VQ&t=2s
+
+3. create basic projects on my own.
