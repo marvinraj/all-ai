@@ -6,3 +6,13 @@ planzzz
 2. complete a simple project on youtube, follow along -- https://www.youtube.com/watch?v=mozBidd58VQ&t=2s
 
 3. create basic projects on my own.
+
+
+------------------------------------------------------------------------
+
+
+why do i want to learn pytorch?
+- i want to learn deep learning
+
+what is deep learning, how it works, etc?
+- https://www.ibm.com/topics/deep-learning
